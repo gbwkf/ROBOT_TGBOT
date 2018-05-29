@@ -61,9 +61,7 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 [SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
 
-[To0fan](https://github.com/To0fan) ([Telegram](https://telegram.me/ToOfan))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
+[To0fan](https://github.com/To0fan) ([Telegram](ht
 
 
 ### Our Telegram channel:
@@ -72,4 +70,4 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 ### Our Web Site:
 
-[Beyond Development Forum](https://Beyond-Dev.iR)
+[Beyond Deveeyond-Dev.iR)
